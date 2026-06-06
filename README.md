@@ -1,6 +1,6 @@
 # PitchBack
 
-Emotional investor avatar pitch coach — D-ID V4 avatar + ElevenLabs Agents + Gemini scorecard.
+Expressive investor avatar pitch coach — D-ID V4 avatar + ElevenLabs Agents + Gemini scorecard.
 
 ## Quick start
 
